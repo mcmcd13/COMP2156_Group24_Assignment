@@ -3,5 +3,3 @@ This course is very important for every youth to study to sustain in this techni
 This course is mainly for those who loves modern technology.
 If you want to earn sitting without using your physical effort then this course id for you.
 Covers Git and GitHub for efficient code management and collaboration.
- Introduces Docker and Kubernetes for containerized application deployment.
- Explores tools like Terraform or Ansible to automate infrastructure provisioning.
