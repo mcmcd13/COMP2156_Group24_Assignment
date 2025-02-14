@@ -2,4 +2,3 @@ COMP3104 DevOps course is for 4 months duration. Under this course we learn abou
 This course is very important for every youth to study to sustain in this technical world.
 This course is mainly for those who loves modern technology.
 If you want to earn sitting without using your physical effort then this course id for you.
-Covers Git and GitHub for efficient code management and collaboration.
