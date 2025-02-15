@@ -30,6 +30,7 @@ Responsibilities vary slightly from group member to group member.
 After finding a group of people, set up a repo, add collaborators, initialize on each device, and then work together to slowly update your collective repo to fulfill all requirements.
 
 ## CI/CD Details
+GitHub Actions .yml file configured for basic GitHub action automation, such as what happens on Push and sample messages when certain automated tasks are fulfilled.
 
 ## Branching Strategy
 We use a simple branch strategy in which each collaborator as well as the leader starts their own branch. These branches should be labeled with their name and student ID.
