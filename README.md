@@ -22,6 +22,10 @@ Mark McDermott
 
 Phurba Dorji Tamang
 
+101482830 
+
+harshbali1809 
+
 ## Project Description
 In this first assignment, we work as a group to make a GitHub Repo, commit to our branches, and work through various merges. In the process at least three files should be created per group member, and a README should be updated with repo details and group information.
 Responsibilities vary slightly from group member to group member.
