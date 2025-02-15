@@ -1,9 +1,26 @@
 # COMP2156_Group24_Assignment
 ## Group Members
 101472819
+
 YovStudent
 
+Youri Ovtcharenko
+
 **-------------**
+
+100949881
+
+mcmcd13
+
+Mark McDermott
+
+**-------------**
+
+101514574
+
+101514574 /username is the same as stid number
+
+Phurba Dorji Tamang
 
 ## Project Description
 In this first assignment, we work as a group to make a GitHub Repo, commit to our branches, and work through various merges. In the process at least three files should be created per group member, and a README should be updated with repo details and group information.
